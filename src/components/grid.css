@@ -1,0 +1,21 @@
+@media (min-width:992px) {
+    .row{
+        display:flex;
+    }
+    .col-md-8{
+        width: 66.66%;
+    }
+    .col-md-4{
+        width: 33.34%;
+    }
+    .col-md-3{
+        width: 25%;
+    }
+    .col-md-6{
+        width: 50%;
+    }
+    .col-md-12{
+        width: 100%;
+        display:flex;
+    }
+}

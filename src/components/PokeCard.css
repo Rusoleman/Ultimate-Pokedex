@@ -1,0 +1,29 @@
+/*═══════════════════════════════════════════════════════
+                      Cards-style
+═══════════════════════════════════════════════════════*/
+.card-container {
+    background:green;
+    border-radius: 18px;
+    width: 70%;
+    height: 500px;
+    margin-left: 3%;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.4);
+}
+.character-card {
+    background:ivory;
+    border-radius:18px;
+    width: 100%;
+    height: 250px;
+}
+/*═══════════════════════════════════════════════════════
+                      Containers
+═══════════════════════════════════════════════════════*/
+.container-info {
+    background:orange;
+    width: 100%;
+    height: 200px;
+}
+.cards-container{
+    background:yellow;
+    height: 550px;
+}
